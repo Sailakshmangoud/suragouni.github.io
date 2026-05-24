@@ -1,5 +1,5 @@
 # suragouni.github.io
-<!DOCTYPE html>
+<Suragouni>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
